@@ -1,2 +1,2 @@
 # Cython
-This code measures the speed of work Cython, using the example of Fibonacci numbers. Cython works faster than Python. Use this code to speed up your code Python.
+This code measures the speed of Cython using Fibonacci numbers as an example. Cython is faster than Python. Use some of this code to speed up your Python code.
